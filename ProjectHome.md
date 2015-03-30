@@ -1,0 +1,1 @@
+NubDial started off as a basic modification of SpellDial by Lawrence Greenfield, but I've since added various other options and functions to it. Currently, it can already search by numbers and name.
